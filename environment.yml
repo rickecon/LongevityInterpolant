@@ -1,0 +1,14 @@
+name: longev-interp-dev
+channels:
+- conda-forge
+dependencies:
+- python>=3.7.7, <3.13
+- numpy
+- ipython
+- pandas>=1.2.5
+- scipy
+- matplotlib
+- black>=24.1.1
+- pytest
+- bokeh
+- pip
